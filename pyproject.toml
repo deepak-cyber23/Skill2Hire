@@ -1,0 +1,17 @@
+[project]
+name = "ai-interview-prep-coach"
+version = "0.1.0"
+description = "AI-powered interview preparation coach using Streamlit and LangChain Groq"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.38.0",
+    "langchain>=0.3.0",
+    "langchain-groq>=0.2.0",
+    "python-dotenv>=1.0.1",
+    "pydantic>=2.8.0"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Prep Coach",
+  "description": "AI-powered interview preparation assistant that conducts adaptive mock interviews across Software Engineering, Core Engineering, and Management with real-time feedback and analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
